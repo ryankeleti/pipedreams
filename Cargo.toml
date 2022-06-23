@@ -1,0 +1,7 @@
+[package]
+name = "pipedreams"
+version = "0.0.0"
+authors = ["ryankeleti <code@ryankeleti.com>"]
+edition = "2021"
+
+[dependencies]
