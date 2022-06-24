@@ -18,7 +18,7 @@ fn main() {
 
     println!("Reduced dreams:");
     for dream in dreams.iter() {
-        println!("{}\n", display_dream(dream));
+        println!("{}", display_dream(dream));
     }
 
     // Compute the Schubert polynomial.

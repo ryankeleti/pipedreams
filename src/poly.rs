@@ -5,7 +5,7 @@ use crate::{
     perm::Perm,
 };
 
-/// Basic monomial in one variable with no coefficients
+/// Monomial in one variable with no coefficients.
 #[derive(Clone, Debug)]
 pub struct Monomial {
     // `(i, p)` represents x_i^p.
